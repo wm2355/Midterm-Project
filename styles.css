@@ -4,7 +4,7 @@ body {
   line-height: 2.5em;
 }
 .jumbotron {
-  background-image: url(../image/header.png);
+  background-image: url(image/header.png);
   background-repeat: repeat;
   background-position: right;
   margin: 0;
