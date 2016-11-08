@@ -1,0 +1,36 @@
+body {
+  font-size: 160%;
+  font-family: 'Lato', sans-serif;
+  line-height: 2.5em;
+}
+.jumbotron {
+  background-image: url(../image/header.png);
+  background-repeat: repeat;
+  background-position: right;
+  margin: 0;
+  padding: 0;
+}
+.container-fluid {
+  padding: 30px 100px;
+}
+.header {
+  text-align: center;
+}
+.assessment {
+  background-color: #F3EFE0;
+}
+img {
+  padding: 20px;
+}
+h1,h2 {
+  color: #63C0B9;
+}
+h3 {
+  color: #FDB816;
+}
+.instruction {
+  border-style: dashed;;
+  border-color: #888888;
+  background-color: #D3D3D3;
+  padding: 5px;
+}
