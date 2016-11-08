@@ -22,8 +22,12 @@ body {
 img {
   padding: 20px;
 }
+iframe {
+  padding: 25px;
+}
 h1,h2 {
   color: #63C0B9;
+  padding: 10px 0;
 }
 h3 {
   color: #FDB816;
