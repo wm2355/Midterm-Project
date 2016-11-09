@@ -32,9 +32,10 @@ h1,h2 {
 h3 {
   color: #FDB816;
 }
-.instruction {
-  border-style: dashed;;
-  border-color: #888888;
-  background-color: #D3D3D3;
-  padding: 5px;
+.modal-header {
+  background-color: #63C0B9;
+  color: white;
+}
+.modal-footer {
+  background-color: #63C0B9;
 }
